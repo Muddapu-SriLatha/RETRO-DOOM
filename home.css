@@ -1,1 +1,36 @@
+body{
+    
+    
+    background-image: url(b1.avif);
+    
+}
+button{
+    align-items: center;
+    height: 50px;
+    width:400px;
+    border-radius:16px;
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family:fantasy;
+    color:white;
+    border-color: black;
+    background-color:transparent;
+    align-items: top;
+    transition:2s;
+}
+button:hover{
+    color:black;
+    background-color:white;
+}
 
+h1{
+    margin-left: 650px;
+    color: white;
+   
+}
+img{
+    margin-left: 900px;
+}
+    
