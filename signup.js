@@ -4,5 +4,5 @@ function gamepage(){
     
 }
 function homepage(){
-    document.location='home.html';
+    document.location='index.html';
 }
